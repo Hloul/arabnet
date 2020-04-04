@@ -5,7 +5,7 @@
 
 {
     'name': "Lebanon - Accounting",
-    'version': '13.0',
+    'version': '13.3',
     'author': 'BAS',
     'website': 'http://bas.sarl',
     'category': 'Localization',
@@ -24,9 +24,9 @@ by BAS
         'data/l10n_lb_chart_data.xml',
         'data/account.account.template.csv',
         'data/l10n_lb_chart_post_data.xml',
+        'data/tax_report_data.xml',
         'data/account_tax_template_data.xml',
         'data/account_chart_template_data.xml',
-        'data/tax_report_data.xml',
     ],
 
 }
